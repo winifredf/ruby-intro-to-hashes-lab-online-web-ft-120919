@@ -59,6 +59,9 @@ monopoly = {}
   monopoly[:railroads][:names][:b_and_o_railroad] = {}
   monopoly[:railroads][:names][:shortline] = {}
   
+ 
+  
+  
   monopoly
   
 	#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
