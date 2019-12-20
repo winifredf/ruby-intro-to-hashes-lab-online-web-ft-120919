@@ -60,6 +60,7 @@ monopoly = {}
   monopoly[:railroads][:names][:shortline] = {}
   
   monopoly[:railroads][:names][:reading_railroad]["mortgage_value"] = "$100"
+  monopoly[:railroads][:names][:pennsylania_railroad]["mortgage_value"] = "$200"
   
   
   
