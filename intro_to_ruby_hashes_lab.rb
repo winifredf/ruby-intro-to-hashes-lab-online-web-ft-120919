@@ -40,7 +40,7 @@ def monopoly_with_second_tier
 end
 
 
-monopoly = {}
+  monopoly = {}
   
   monopoly[:railroads] = {}
   
@@ -62,7 +62,7 @@ monopoly = {}
   monopoly[:railroads][:names][:reading_railroad]["mortgage_value"] = "$100"
   monopoly[:railroads][:names][:pennsylania_railroad]["mortgage_value"] = "$200"
   monopoly[:railroads][:names][:b_and_o_railroad]["mortgage_value"] = "$400"
-  monopoly[:railroads][:names][:shortline]
+  monopoly[:railroads][:names][:shortline]["mortgage_value"] = "$800"
   
   
   monopoly
